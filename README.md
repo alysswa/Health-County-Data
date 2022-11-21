@@ -7,13 +7,13 @@ This repository contains instructions and accompanying files for analyzing publi
 ## The repository includes:
 1) The Public Health dataset in a `.csv` file format
 2) A python notebook tutorial on recreating subsets of data
-3) Reference files of the subsets created
-
-## Purpose and Acknowledgements 
+3) Reference files of the subsets created 
 
 ## Example of Potential Product from this Repository:
 
 ![-nbsp-health-care-costs-median-household-income-and-poor-or-fair-health-by-state](https://user-images.githubusercontent.com/118237824/202950940-97a8acdd-d823-403a-a98c-3955a8a97677.png)
+
+## Purpose and Acknowledgements
 
 - All resources were provided by The University of North Carolina at Chapel Hill through Professor Gotzler's Fall 2022 ENGL105 course.
 
