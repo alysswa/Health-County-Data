@@ -1,17 +1,17 @@
 # Public-Health-Data
 
-#### About
+### About
 
 This repository contains instructions and accompanying files for analyzing public health data. It provides guides on creating subsets of large public health datasets to compare different variables individually as well as producing effective data visuals for general audiences. 
 
-#### The repository includes:
+### The repository includes:
 1) The Public Health dataset in a `.csv` file format
 2) A python notebook tutorial on recreating subsets of data
 3) Reference files of the subsets created
 
-#### Purpose and Acknowledgements 
+### Purpose and Acknowledgements 
 
-#### Example of Potential Product from this Repository:
+### Example of Potential Product from this Repository:
 
 ![-nbsp-health-care-costs-median-household-income-and-poor-or-fair-health-by-state](https://user-images.githubusercontent.com/118237824/202950940-97a8acdd-d823-403a-a98c-3955a8a97677.png)
 
