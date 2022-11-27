@@ -1,8 +1,10 @@
-# Public-Health-Data
+# Public_Health_Data
 
 ## About
 
 This repository contains instructions and accompanying files for analyzing public health data. It provides guides on creating subsets of large public health datasets to compare different variables individually as well as producing effective data visuals for general audiences. 
+
+The Anaconda and Jupyter Lab software will be used. It can be downloaded at https://www.anaconda.com/products/distribution
 
 ## The Repository Includes:
 1) The Public Health dataset in a `.csv` file format
